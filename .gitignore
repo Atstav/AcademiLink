@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+local.properties
+build/
+**/build/
+*.iml
+
+server/node_modules/
+server/.env
+server/npm-debug.log*
+
+.DS_Store
